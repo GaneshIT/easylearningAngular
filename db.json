@@ -1,0 +1,10 @@
+{
+    "courses":[
+        {"id":1,"title":"Java","description":"Java Full Stack","fees":10000},
+        {"id":2,"title":"Python","description":"Python Full Stack","fees":25000},
+        {"id":3,"title":"UI","description":"MERN Full Stack","fees":10000},
+        {"id":4,"title":"Database","description":"Oracle Admin","fees":25000},
+        {"id":5,"title":"DataScience","description":"Python,SQL","fees":25000},
+        {"id":6,"title":"ML","description":"Python,R,SQL","fees":10000}
+    ]
+}
